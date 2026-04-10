@@ -56,11 +56,12 @@ Example query:
 ## Project Structure
 
 geo-data-hub/
-├── infra/          # Terraform infrastructure
-├── app/            # Lambda functions
-├── events/         # Sample test events
-├── tests/          # Unit tests
-└── README.md
+.
+├── README.md
+├── app
+├── events
+├── infra
+└── tests
 
 ## Current Status
 
